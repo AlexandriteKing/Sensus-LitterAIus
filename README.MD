@@ -1,1 +1,2 @@
-
+sensus-litteralus
+interpretatio
